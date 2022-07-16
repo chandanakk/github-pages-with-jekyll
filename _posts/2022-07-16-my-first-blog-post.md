@@ -1,1 +1,4 @@
-Adding content to blog
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
